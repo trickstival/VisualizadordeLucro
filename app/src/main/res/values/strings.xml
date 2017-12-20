@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Visualizador de Lucro</string>
+    <string name="offline">Sem contexão...</string>
+</resources>
